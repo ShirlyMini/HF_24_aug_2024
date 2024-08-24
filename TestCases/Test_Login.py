@@ -17,6 +17,7 @@ class Test_Suite_Login:
             self.log.error("TC1 test_verify_LoginPage == FAIL")
             driver.save_screenshot(self.ss+"test_verify_LoginPage.png")
             assert False
+            
 
 
     def test_verify_DashBoardPage(self, launch_browser):
