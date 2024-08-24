@@ -1,0 +1,3 @@
+2024-08-24 15:31:12,347::INFO::TC1 Nop Commerce Application launched sucessfully
+2024-08-24 15:31:12,355::ERROR::TC1 test_verify_LoginPage == FAIL
+2024-08-24 15:31:23,065::INFO::TC2 Nop Commerce Application launched sucessfully
